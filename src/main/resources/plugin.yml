@@ -1,6 +1,6 @@
 name: StolClans
 version: '1.2.5'
-main: org.blulio.stolClans.StolClans
+main: org.wple.stolClans.StolClans
 api-version: '1.21'
 authors: [ blulio, WheatPole ]
 description: A Stolicija plugin that formats the chat and adds clans

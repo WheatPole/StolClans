@@ -1,4 +1,4 @@
-package org.blulio.stolClans;
+package org.wple.stolClans;
 
 import net.md_5.bungee.api.chat.TextComponent;
 import org.bukkit.Bukkit;
@@ -13,9 +13,7 @@ import org.bukkit.entity.Player;
 import java.io.IOException;
 import java.time.Duration;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 import java.util.*;
-import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 
 import net.md_5.bungee.api.ChatColor;

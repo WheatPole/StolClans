@@ -1,15 +1,12 @@
-package org.blulio.stolClans;
+package org.wple.stolClans;
 
 
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.event.EventHandler;
-import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.AsyncPlayerChatEvent;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Bukkit;
-
-import java.util.logging.Level;
 
 
 public class OnChat implements Listener {

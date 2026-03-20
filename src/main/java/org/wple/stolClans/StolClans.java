@@ -1,4 +1,4 @@
-package org.blulio.stolClans;
+package org.wple.stolClans;
 
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.command.Command;
@@ -7,9 +7,7 @@ import org.bukkit.command.ConsoleCommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import java.io.IOException;
 import java.util.Objects;
-import java.util.logging.Level;
 
 
 public final class StolClans extends JavaPlugin {

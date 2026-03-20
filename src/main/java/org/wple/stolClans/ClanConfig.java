@@ -1,4 +1,4 @@
-package org.blulio.stolClans;
+package org.wple.stolClans;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;

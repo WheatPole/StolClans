@@ -1,4 +1,4 @@
-package org.blulio.stolClans;
+package org.wple.stolClans;
 
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.YamlConfiguration;
@@ -8,11 +8,9 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
-import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.configuration.file.FileConfiguration;
-import net.md_5.bungee.api.ChatColor;
+
 import java.io.File;
-import java.io.IOException;
 import java.util.logging.Level;
 
 public class JoinHandler implements Listener {

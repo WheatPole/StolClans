@@ -1,14 +1,11 @@
-package org.blulio.stolClans;
+package org.wple.stolClans;
 
 import org.bukkit.Bukkit;
-import net.md_5.bungee.api.ChatColor;
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
-import org.bukkit.plugin.java.JavaPlugin;
 
 import java.io.File;
-import java.io.ObjectInputFilter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;

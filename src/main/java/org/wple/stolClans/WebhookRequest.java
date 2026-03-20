@@ -1,4 +1,4 @@
-package org.blulio.stolClans;
+package org.wple.stolClans;
 
 
 import java.io.IOException;
