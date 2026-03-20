@@ -1,0 +1,15 @@
+# Template/Look of messages of the user
+# <clan_name> is the name of the clan
+# <user_color> is the color of the clan, replaced by code
+prefix: '&7[&6StolClans&7]&7'
+template: "<clan_symbol> &7[&l<clan_name>&7] <user_color>%s&7: <chat_color>%s"
+clanchat_template: "&l<clan_name> &7-> <rank> <user_color><username>&7: <chat_color><message>"
+noclansym: "+"
+noclancol: "f"
+noclannamecol: "f"
+noclanname: "No Clan"
+noclanchat: "f"
+listheader: "&4&l-&c&l-&6&l-&6&l Stolicija S11 &6&l-&c&l-&4&l-"
+listfooter: "&6Online players: <player_count>"
+webhookurl: "https://discord.com/api/webhooks/1433177383040454777/OJ17mR8z8EpOIWK_rLdYIsBKXwWNC-zaOUs-Ez-K6OXRGM-AkMkY_6rggHrq8W4gbe39"
+min_player_requirement: 3

@@ -1,0 +1,27 @@
+name: StolClans
+version: '1.2.5'
+main: org.blulio.stolClans.StolClans
+api-version: '1.21'
+authors: [ blulio, WheatPole ]
+description: A Stolicija plugin that formats the chat and adds clans
+commands:
+  clan:
+    description: Main command for the clan system
+    usage: /<command> [args]
+    aliases: [stolclans, clans]
+    permission: stolclans.use
+  stolclans:
+    description: Alias for the clan command
+    usage: /<command> [args]
+    permission: stolclans.use
+  clans:
+    description: Alias for the clan command
+    usage: /<command> [args]
+    permission: stolclans.use
+permissions:
+  stolclans.use:
+    description: Allows use of clan commands
+    default: true
+  stolclans.operator:
+    description: Allows use of operator clan commands
+    default: false
