@@ -10,7 +10,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-// https://discord.com/api/webhooks/1433097004749291580/Nq_haBHm2sOhvHoAeJu8_8P3PTOe2t3cAJx5yBtf_3Gw1IDqCGC6I3oYeILTLfbALfa8
 public class WebhookRequest {
     private final HttpClient httpClient;
 
